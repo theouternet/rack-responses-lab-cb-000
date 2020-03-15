@@ -1,7 +1,7 @@
 class Application
   
   def Call 
-    Response
+     resp = Rack::Response.new
     
   end 
   
