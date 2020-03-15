@@ -5,7 +5,7 @@ class Application
      
      if 
        "Good Morning!"
-       elsif 
+     else
        "Good Afternoon!"
      
     
